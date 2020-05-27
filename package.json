@@ -2,7 +2,7 @@
   "name": "wallet-manager",
   "version": "1.0.0",
   "description": "",
-  "author":"kartik",
+  "author": "kartik",
   "main": "index.js",
   "scripts": {
     "start-js": "node index.js",
